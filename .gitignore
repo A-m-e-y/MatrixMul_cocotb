@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Amey
+*.out
+*.vcd
+*.txt
+sim_build
+results.xml
 # C extensions
 *.so
 
